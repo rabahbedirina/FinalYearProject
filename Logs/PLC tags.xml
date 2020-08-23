@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="PLC tags.xml" projectName="C:\Users\Bedirina\Desktop\memoire\PLC tags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Warning" dateTime="4:26:26 PM">
+    <Message>The size of the retentive memory was exceeded. Retentive values will not be imported.</Message>
+  </LogEntry>
+</LogFile>
